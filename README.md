@@ -6,7 +6,12 @@
 
 I am a Junior Web Developer . I am now learning web development under programming hero.
 
-Skills:  HTML5 / CSS3 / BOOTSTRAP /  TAILWIND / JS
+Skills & Experience:<br>
+✔ HTML5 <br>
+✔ CSS3 <br>
+✔ BOOTSTRAP <br> 
+✔ TAILWIND <br>
+✔ JS <br>
 
 - 🔭 I’m currently working on Programming hero 
 - 🌱 I’m currently learning Java script  
