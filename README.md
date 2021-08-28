@@ -7,11 +7,11 @@
 I am a Junior Web Developer . I am now learning web development under programming hero.
 
 Skills & Experience:<br>
-✔ HTML5 <br>
-✔ CSS3 <br>
-✔ BOOTSTRAP <br> 
-✔ TAILWIND <br>
-✔ JS <br>
+✅ HTML5 <br>
+✅ CSS3 <br>
+✅ BOOTSTRAP <br> 
+✅ TAILWIND <br>
+✅ JS <br>
 
 - 🔭 I’m currently working on Programming hero 
 - 🌱 I’m currently learning Java script  
