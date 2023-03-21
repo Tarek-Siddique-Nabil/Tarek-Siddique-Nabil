@@ -1,4 +1,4 @@
-![I am a Junior Web Developer .](https://i.ibb.co/1ZHhRdQ/blurred-bg-6-1.jpg)
+![I am a Junior Web Developer .](https://ibb.co/Zz26dTD)
 
 # Hi there 👋, My name is Nabil.
 #### I am a Junior Web Developer .
@@ -11,10 +11,17 @@ Skills & Experience:<br>
 ✅ CSS3 <br>
 ✅ BOOTSTRAP <br> 
 ✅ TAILWIND <br>
-✅ JS <br>
+✅ Js <br>
+✅ React  <br>
+✅ Node Js <br>
+✅ Express Js <br>
+✅ MongoDB <br>
+✅ Redux(Learning) <br>
+✅ Three Js  <br>
+✅ React Native <br>
 
 - 🔭 I’m currently working on Programming hero 
-- 🌱 I’m currently learning Java script  
+- 🌱 I’m currently learning Rust  
 - 💬 Ask me about Web Development 
 
 
