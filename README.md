@@ -1,6 +1,6 @@
 ![I am a Junior Web Developer .]
 <a href="https://ibb.co/VJB0bVj"><img src="https://i.ibb.co/hL8xrs7/1666184439032-1.jpg" alt="1666184439032-1" border="0"></a><br />
-###  `<a target='_blank' href='https://protfolio-tarek-siddique-nabil.vercel.app/'>Visit My Portfolio </a><br />`
+###  <a target='_blank' href='https://protfolio-tarek-siddique-nabil.vercel.app/'>Visit My Portfolio </a><br />
 
 # Hi there 👋, My name is Nabil.
 #### I am a Junior Web Developer .
