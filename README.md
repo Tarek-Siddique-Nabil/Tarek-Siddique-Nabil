@@ -10,8 +10,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Tarek-Siddique-Nabil&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+<div align="center" >
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tarek-Siddique-Nabil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -36,6 +36,14 @@
 ###
 
 <div align="left">
+<a href="https://wakatime.com/@018b64c5-3ad8-425f-9e64-e7b8a810e6a8">
+  <img src="https://wakatime.com/badge/user/018b64c5-3ad8-425f-9e64-e7b8a810e6a8.svg" height="20" alt="wakatime"/>
+  </a>
+</div>
+
+###
+
+<div align="left">
   <a href="https://t.me/tsnabil001" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="telegram logo"  />
   </a>
@@ -54,10 +62,3 @@
 <img src="https://raw.githubusercontent.com/Tarek-Siddique-Nabil/Tarek-Siddique-Nabil/output/snake.svg" alt="Snake animation" />
 
 ###
-
-
-
-
-
-
-
