@@ -10,13 +10,6 @@
 
 ###
 
-<div align="center" >
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tarek-Siddique-Nabil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
@@ -44,6 +37,7 @@
 ###
 
 <div align="left">
+  <a href="https://tsnabil.dev" target="_blank">Portfolio</a>
   <a href="https://t.me/tsnabil001" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="telegram logo"  />
   </a>
